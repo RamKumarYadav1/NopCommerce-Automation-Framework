@@ -1,0 +1,121 @@
+2024-02-06 17:24:10,227 [main] INFO nopcommerce - ********* Launching browser *********
+2024-02-06 17:24:10,264 [main] INFO nopcommerce - ********* Opening URL *********
+2024-02-06 17:24:13,386 [main] INFO nopcommerce - ********* Proving user info *********
+2024-02-06 17:24:18,085 [main] INFO nopcommerce - ********* Login Validation starts *********
+2024-02-06 17:24:18,753 [main] INFO nopcommerce - ********* Login successfull *********
+2024-02-06 17:24:19,792 [main] INFO nopcommerce - ********* Logout from application *********
+2024-02-06 17:24:22,402 [main] INFO nopcommerce - ********* Login Validation starts *********
+2024-02-06 17:24:22,417 [main] INFO nopcommerce - ********* Login successfull *********
+2024-02-06 17:24:23,460 [main] INFO nopcommerce - ********* Closing application *********
+2024-02-06 17:30:57,854 [main] INFO nopcommerce - ********* Launching browser *********
+2024-02-06 17:30:57,882 [main] INFO nopcommerce - ********* Opening URL *********
+2024-02-06 17:31:02,037 [main] INFO nopcommerce - ********* Proving user info *********
+2024-02-06 17:31:06,610 [main] INFO nopcommerce - ********* Login Validation starts *********
+2024-02-06 17:31:07,370 [main] INFO nopcommerce - ********* Login successfull *********
+2024-02-06 17:31:08,393 [main] INFO nopcommerce - ********* Logout from application *********
+2024-02-06 17:31:11,019 [main] INFO nopcommerce - ********* Login Validation starts *********
+2024-02-06 17:31:11,042 [main] INFO nopcommerce - ********* Login successfull *********
+2024-02-06 17:31:12,062 [main] INFO nopcommerce - ********* Closing application *********
+2024-02-08 17:55:38,519 [main] INFO nopcommerce - ********* Launching browser *********
+2024-02-08 17:55:38,844 [main] INFO nopcommerce - ********* Opening URL *********
+2024-02-08 17:55:41,620 [main] INFO nopcommerce - ********* Proving user info *********
+2024-02-08 17:55:47,961 [main] INFO nopcommerce - ********* Login Validation starts *********
+2024-02-08 17:55:49,011 [main] INFO nopcommerce - ********* Login successfull *********
+2024-02-08 17:55:50,132 [main] INFO nopcommerce - ********* Logout from application *********
+2024-02-08 17:55:52,855 [main] INFO nopcommerce - ********* Login Validation starts *********
+2024-02-08 17:55:52,866 [main] INFO nopcommerce - ********* Login successfull *********
+2024-02-08 17:55:53,884 [main] INFO nopcommerce - ********* Closing application *********
+2024-02-08 17:55:56,607 [main] INFO nopcommerce - ********* Launching browser *********
+2024-02-08 17:55:56,608 [main] INFO nopcommerce - ********* Opening URL *********
+2024-02-08 17:56:01,505 [main] INFO nopcommerce - ********* Proving user info *********
+2024-02-08 17:56:04,679 [main] INFO nopcommerce - ********* Login Validation starts *********
+2024-02-08 17:56:04,714 [main] INFO nopcommerce - ********* Login Failed *********
+2024-02-08 17:56:07,263 [main] INFO nopcommerce - ********* Launching browser *********
+2024-02-08 17:56:07,264 [main] INFO nopcommerce - ********* Opening URL *********
+2024-02-08 17:56:11,595 [main] INFO nopcommerce - ********* Proving user info *********
+2024-02-08 17:56:14,520 [main] INFO nopcommerce - ********* Login Validation starts *********
+2024-02-08 17:56:14,559 [main] INFO nopcommerce - ********* Login Failed *********
+2024-02-08 17:56:17,102 [main] INFO nopcommerce - ********* Launching browser *********
+2024-02-08 17:56:17,107 [main] INFO nopcommerce - ********* Opening URL *********
+2024-02-08 17:56:21,455 [main] INFO nopcommerce - ********* Proving user info *********
+2024-02-08 17:56:24,556 [main] INFO nopcommerce - ********* Login Validation starts *********
+2024-02-08 17:56:24,582 [main] INFO nopcommerce - ********* Login Failed *********
+2024-02-08 18:00:22,119 [main] INFO nopcommerce - ********* Launching browser *********
+2024-02-08 18:00:22,176 [main] INFO nopcommerce - ********* Opening URL *********
+2024-02-08 18:00:25,866 [main] INFO nopcommerce - ********* Proving user info *********
+2024-02-08 18:00:30,587 [main] INFO nopcommerce - ********* Login Validation starts *********
+2024-02-08 18:00:31,214 [main] INFO nopcommerce - ********* Login successfull *********
+2024-02-08 18:00:32,254 [main] INFO nopcommerce - ********* Logout from application *********
+2024-02-08 18:00:35,143 [main] INFO nopcommerce - ********* Login Validation starts *********
+2024-02-08 18:00:35,179 [main] INFO nopcommerce - ********* Login successfull *********
+2024-02-08 18:00:36,201 [main] INFO nopcommerce - ********* Closing application *********
+2024-02-08 18:01:34,616 [main] INFO nopcommerce - ********* Launching browser *********
+2024-02-08 18:01:34,661 [main] INFO nopcommerce - ********* Opening URL *********
+2024-02-08 18:01:38,732 [main] INFO nopcommerce - ********* Proving user info *********
+2024-02-08 18:01:43,453 [main] INFO nopcommerce - ********* Login Validation starts *********
+2024-02-08 18:01:44,373 [main] INFO nopcommerce - ********* Login successfull *********
+2024-02-08 18:01:45,401 [main] INFO nopcommerce - ********* Logout from application *********
+2024-02-08 18:02:55,190 [main] INFO nopcommerce - ********* Launching browser *********
+2024-02-08 18:02:55,568 [main] INFO nopcommerce - ********* Opening URL *********
+2024-02-08 18:03:00,097 [main] INFO nopcommerce - ********* Proving user info *********
+2024-02-08 18:03:05,098 [main] INFO nopcommerce - ********* Login Validation starts *********
+2024-02-08 18:03:06,226 [main] INFO nopcommerce - ********* Login successfull *********
+2024-02-08 18:03:07,251 [main] INFO nopcommerce - ********* Logout from application *********
+2024-02-08 18:03:10,160 [main] INFO nopcommerce - ********* Login Validation starts *********
+2024-02-08 18:03:10,213 [main] INFO nopcommerce - ********* Login successfull *********
+2024-02-08 18:03:11,266 [main] INFO nopcommerce - ********* Closing application *********
+2024-02-08 18:03:39,260 [main] INFO nopcommerce - ********* Launching browser *********
+2024-02-08 18:03:39,461 [main] INFO nopcommerce - ********* Opening URL *********
+2024-02-08 18:03:42,794 [main] INFO nopcommerce - ********* Proving user info *********
+2024-02-08 18:03:48,007 [main] INFO nopcommerce - ********* Adding Customer Scenario started *********
+2024-02-08 18:03:48,013 [main] INFO nopcommerce - ********* Dashboard Display validation *********
+2024-02-08 18:04:02,485 [main] INFO nopcommerce - ********* Providing Customer details *********
+2024-02-08 18:04:13,289 [main] INFO nopcommerce - ********* Add customer validation *********
+2024-02-08 18:04:14,830 [main] INFO nopcommerce - ********* Closing application *********
+2024-02-08 18:04:17,638 [main] INFO nopcommerce - ********* Launching browser *********
+2024-02-08 18:04:17,642 [main] INFO nopcommerce - ********* Opening URL *********
+2024-02-08 18:04:21,765 [main] INFO nopcommerce - ********* Proving user info *********
+2024-02-08 18:04:26,623 [main] INFO nopcommerce - ********* Adding Customer Scenario started *********
+2024-02-08 18:04:26,625 [main] INFO nopcommerce - ********* Dashboard Display validation *********
+2024-02-08 18:04:31,470 [main] INFO nopcommerce - ********* Search Customer by Email ID Scenario started *********
+2024-02-08 18:04:36,121 [main] INFO nopcommerce - ********* Search customer by email validation *********
+2024-02-08 18:04:37,347 [main] INFO nopcommerce - ********* Closing application *********
+2024-02-08 18:04:39,971 [main] INFO nopcommerce - ********* Launching browser *********
+2024-02-08 18:04:39,973 [main] INFO nopcommerce - ********* Opening URL *********
+2024-02-08 18:04:43,515 [main] INFO nopcommerce - ********* Proving user info *********
+2024-02-08 18:04:48,298 [main] INFO nopcommerce - ********* Adding Customer Scenario started *********
+2024-02-08 18:04:48,300 [main] INFO nopcommerce - ********* Dashboard Display validation *********
+2024-02-08 18:04:52,538 [main] INFO nopcommerce - ********* Seqarch custoemr by Name Scenario started *********
+2024-02-08 18:04:53,738 [main] INFO nopcommerce - ********* Providing customer name *********
+2024-02-08 18:04:58,122 [main] INFO nopcommerce - ********* Search customer by name validation *********
+2024-02-08 18:04:59,342 [main] INFO nopcommerce - ********* Closing application *********
+2024-02-08 18:07:24,711 [main] INFO nopcommerce - ********* Launching browser *********
+2024-02-08 18:07:24,762 [main] INFO nopcommerce - ********* Opening URL *********
+2024-02-08 18:07:28,929 [main] INFO nopcommerce - ********* Proving user info *********
+2024-02-08 18:07:34,091 [main] INFO nopcommerce - ********* Login Validation starts *********
+2024-02-08 18:07:35,683 [main] INFO nopcommerce - ********* Login successfull *********
+2024-02-08 18:07:36,713 [main] INFO nopcommerce - ********* Logout from application *********
+2024-02-08 18:07:39,532 [main] INFO nopcommerce - ********* Login Validation starts *********
+2024-02-08 18:07:39,555 [main] INFO nopcommerce - ********* Login successfull *********
+2024-02-08 18:07:40,578 [main] INFO nopcommerce - ********* Closing application *********
+2024-02-08 18:07:43,344 [main] INFO nopcommerce - ********* Launching browser *********
+2024-02-08 18:07:43,351 [main] INFO nopcommerce - ********* Opening URL *********
+2024-02-08 18:07:47,406 [main] INFO nopcommerce - ********* Proving user info *********
+2024-02-08 18:07:50,618 [main] INFO nopcommerce - ********* Login Validation starts *********
+2024-02-08 18:07:50,645 [main] INFO nopcommerce - ********* Login Failed *********
+2024-02-08 18:07:53,081 [main] INFO nopcommerce - ********* Launching browser *********
+2024-02-08 18:07:53,083 [main] INFO nopcommerce - ********* Opening URL *********
+2024-02-08 18:07:57,324 [main] INFO nopcommerce - ********* Proving user info *********
+2024-02-08 18:08:00,850 [main] INFO nopcommerce - ********* Login Validation starts *********
+2024-02-08 18:08:00,893 [main] INFO nopcommerce - ********* Login Failed *********
+2024-02-08 22:11:37,030 [main] INFO nopcommerce - ********* Launching browser *********
+2024-02-08 22:11:37,216 [main] INFO nopcommerce - ********* Opening URL *********
+2024-02-08 22:16:27,710 [main] INFO nopcommerce - ********* Launching browser *********
+2024-02-08 22:16:27,750 [main] INFO nopcommerce - ********* Opening URL *********
+2024-02-08 22:16:34,251 [main] INFO nopcommerce - ********* Proving user info *********
+2024-02-08 22:16:40,023 [main] INFO nopcommerce - ********* Login Validation starts *********
+2024-02-08 22:16:40,971 [main] INFO nopcommerce - ********* Login successfull *********
+2024-02-08 22:16:42,054 [main] INFO nopcommerce - ********* Logout from application *********
+2024-02-08 22:16:44,842 [main] INFO nopcommerce - ********* Login Validation starts *********
+2024-02-08 22:16:44,885 [main] INFO nopcommerce - ********* Login successfull *********
+2024-02-08 22:16:45,924 [main] INFO nopcommerce - ********* Closing application *********
