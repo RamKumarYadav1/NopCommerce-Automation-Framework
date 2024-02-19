@@ -20,6 +20,3 @@ This is Behaviour-Driven Development (BDD) UI Test Automation Framework for Auto
 •	We can also generate Automation Test Reports after running the Automation Test Scripts. 
 
 •	This is a Behaviour-Driven Development (BDD) Test Automation Framework, So further can add as many as additional feature files to create more number of Test Cases according to our wish of going in-depth Automation Testing of the Application.
-
-
-
