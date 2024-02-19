@@ -9,13 +9,16 @@ This is a Behaviour-Driven Development (BDD) UI Test Automation Framework for Au
 4. Gherkin
 5. Cucumber Framework 
 6. Page Object Model (POM) 
-7. Behaviour-Driven Development (BDD) 
-8. Maven
-9. Intellij IDE
+7. Behaviour-Driven Development (BDD)
+8. Log4J
+9. Maven
+10. Intellij IDE
 
 #### About:
 • We can perform Automation Testing of NopCommerce (admin-demo.nopcommerce) web application using this Test Automation Framework. 
 
 •	We can also generate Automation Test Reports after running the Automation Test Scripts. 
+
+•	Log4J is added to record each and every log statement at each and every execution step. 
 
 •	This is a Behaviour-Driven Development (BDD) Test Automation Framework, So further can add as many as additional feature files to create more number of Test Cases according to our wish of going in-depth Automation Testing of the Application.
