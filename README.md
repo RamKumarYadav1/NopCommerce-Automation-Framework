@@ -5,14 +5,13 @@ This is Behaviour-Driven Development (BDD) UI Test Automation Framework for Auto
 #### Have Developed this Test Automation Framework using following Tools and Tech Stack:
 1. Java
 2. Selenium WebDriver 
-3. TestNG 
-4. JUnit 
-5. Gherkin
-6. Cucumber Framework 
-7. Page Object Model (POM) 
-8. Behaviour-Driven Development (BDD) 
-9. Maven
-10. Intellij IDE
+3. JUnit 
+4. Gherkin
+5. Cucumber Framework 
+6. Page Object Model (POM) 
+7. Behaviour-Driven Development (BDD) 
+8. Maven
+9. Intellij IDE
 
 #### About 
 • We can perform Automation Testing of NopCommerce (admin-demo.nopcommerce) web application using this Test Automation Framework. 
