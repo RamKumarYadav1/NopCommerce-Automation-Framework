@@ -1,6 +1,6 @@
 # NopCommerce Test Automation Framework
 
-This is Behaviour-Driven Development (BDD) UI Test Automation Framework for Automation Testing of NopCommerce (admin-demo.nopcommerce) web application.
+This is a Behaviour-Driven Development (BDD) UI Test Automation Framework for Automation Testing of NopCommerce (admin-demo.nopcommerce) web application.
 
 #### Have Developed this Test Automation Framework using following Tools and Tech Stack:
 1. Java
@@ -13,7 +13,7 @@ This is Behaviour-Driven Development (BDD) UI Test Automation Framework for Auto
 8. Maven
 9. Intellij IDE
 
-#### About 
+#### About:
 • We can perform Automation Testing of NopCommerce (admin-demo.nopcommerce) web application using this Test Automation Framework. 
 
 •	We can also generate Automation Test Reports after running the Automation Test Scripts. 
