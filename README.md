@@ -21,4 +21,4 @@ This is a Behaviour-Driven Development (BDD) UI Test Automation Framework for Au
 
 •	Log4J is added to record each and every log statement at each and every execution step. 
 
-•	This is a Behaviour-Driven Development (BDD) Test Automation Framework, So further can add as many as additional feature files to create more number of Test Cases according to our wish of going in-depth Automation Testing of the Application.
+•	This is a Behaviour-Driven Development (BDD) Test Automation Framework, So further we can add as many as additional feature files to create more number of Test Cases according to our wish of going in-depth Automation Testing of the Application.
