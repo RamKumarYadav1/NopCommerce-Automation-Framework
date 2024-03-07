@@ -10,9 +10,10 @@ This is a Behaviour-Driven Development (BDD) UI Test Automation Framework for Au
 5. Cucumber Framework 
 6. Page Object Model (POM) 
 7. Behaviour-Driven Development (BDD)
-8. Log4J
-9. Maven
-10. Intellij IDE
+8. Object Oriented Programming (OOPs)
+9. Log4J
+10. Maven
+11. Intellij IDE
 
 #### About:
 • We can perform Automation Testing of NopCommerce (admin-demo.nopcommerce) web application using this Test Automation Framework. 
