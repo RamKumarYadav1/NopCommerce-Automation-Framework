@@ -11,7 +11,7 @@ import java.util.Properties;
 
 public class BaseClass 
 {
-    public WebDriver driver;
+    public static WebDriver driver;
     public LoginPage loginPage;
     public AddCustomerPage addCustomerPage;
     public SearchCustomerPage searchCustomerPage;
